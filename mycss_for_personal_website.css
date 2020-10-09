@@ -1,0 +1,43 @@
+#img_sz {
+    height: 320px;
+    width: 250px;
+}
+.pos {
+    position: relative;
+    top: 35px;
+    left: 60px;
+    height: 1550px;
+    width: 1700px;
+}
+.pos1 {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 350px;
+}
+.pos2 {
+    background-color: white;
+    position: relative;
+    top: -1174px;
+    left: 500px;
+    height: 1480px;
+    width: 1000px;
+}
+hr {
+    margin-right: 50px;
+}
+.pos3 {
+    position: relative;
+    top: 40px;
+    left: 50px;
+}
+#color1 {
+    color: darkviolet
+}
+#color2 {
+    background-color: darkviolet;
+    height: 2px;
+}
+#color3 {
+    color: midnightblue;
+}
